@@ -30,6 +30,6 @@
 	});
 ```
 
-![](./img/test1.PNG)
+![](/img/test1.PNG)
 
-![](./img/test2.PNG)
+![](/img/test2.PNG)
